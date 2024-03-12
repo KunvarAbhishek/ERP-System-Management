@@ -1,0 +1,29 @@
+/* ProductTableGraph.css */
+.Updates {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 10px;
+}
+
+.update {
+  background-color: #f9f9f9;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.category-name {
+  font-weight: bold;
+}
+
+.progress-container {
+  background-color: #ddd;
+  border-radius: 3px;
+  height: 10px;
+  width: 100%;
+}
+
+.progress-bar {
+  height: 100%;
+  background-color: #007bff;
+  border-radius: 3px;
+}

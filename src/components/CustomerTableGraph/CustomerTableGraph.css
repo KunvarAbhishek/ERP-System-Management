@@ -1,0 +1,48 @@
+.white-container {
+  max-width: auto;
+  margin: 0 auto;
+}
+
+.SalesByCountry {
+  max-height: 300px; /* Adjust this value as needed */
+  overflow-y: hidden; /* Add scrollbar if content overflows */
+}
+
+
+.buyer-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.buyer-tile {
+  background: linear-gradient(2deg, lightpink, white);
+  border-radius: 5px;
+  margin: 5px;
+  width: 100%;
+  padding-left: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+  transition: box-shadow 0.3s ease-in-out;
+}
+
+.buyer-tile:hover {
+  box-shadow: none;
+}
+
+.small-text {
+  font-size: 12px;
+  font-weight: bold;
+}
+
+
+
+@media screen and (max-width: 1200px) {
+  .white-container {
+    max-width: 90%;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .white-container {
+    padding: 10px;
+  }
+}

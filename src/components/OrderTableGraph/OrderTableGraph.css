@@ -1,0 +1,16 @@
+.white-container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+@media screen and (max-width: 1200px) {
+  .white-container {
+    max-width: 90%;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .white-container {
+    padding: 10px;
+  }
+}

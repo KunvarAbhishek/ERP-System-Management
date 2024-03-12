@@ -1,0 +1,54 @@
+.MuiTableRow-root>*{
+	padding: 10px;
+
+}
+
+.MuiTableRow-root.MuiTableRow-head>*{
+	font-weight: bold !important;
+}
+
+.status{
+	padding: 8px;
+	border-radius: 9px;
+}
+
+.Details{
+	color: #00b5ff !important;
+}
+
+
+
+.Table {
+  /* Other styles */
+
+  /* Ensure table headers stay in a single line */
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+
+
+.deleteButton {
+  background-color: red !important; /* Set the background color to red */
+  color: white !important; /* Set the text color to white */
+}
+
+
+
+@media screen and (max-width: 1200px) {
+  .Table {
+    width: 170%;
+    margin-top: 2rem;
+  }
+}
+
+
+@media screen and (max-width: 768px) {
+  .Table{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 23rem;
+  }
+}

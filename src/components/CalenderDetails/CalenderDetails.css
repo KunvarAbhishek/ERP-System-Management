@@ -1,0 +1,124 @@
+.MuiTableRow-root>*{
+	padding: 10px;
+}
+
+.MuiTableRow-root.MuiTableRow-head>*{
+	font-weight: bold !important;
+}
+
+.status{
+	padding: 8px;
+	border-radius: 9px;
+}
+
+.Details{
+	color: #00b5ff !important;
+}
+
+
+
+
+
+
+/* -------------------------- Calendar Code ----------------------------------------------------- */
+
+
+
+.react-calendar {
+  width: auto; /* Set a specific width for the calendar */
+  max-width: 100%;
+  background: linear-gradient(100deg, rgba(255,255,255,0.8), rgba(200, 100, 120, 0.8)); /* Gradient background */
+  border: none; /* Remove the border */
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.5em;
+  border-radius: 10px; /* Increase the border radius for a softer look */
+  backdrop-filter: blur(5px); /* Apply a blur effect to the background */
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37); /* Add a glass morphism effect */
+}
+
+.react-calendar__month-view {
+  padding: 10px;
+}
+
+.react-calendar__month-view__days {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+}
+
+.react-calendar__month-view__weekdays {
+  font-weight: bold;
+  text-transform: uppercase;
+  border-bottom: 1px solid #ccc;
+}
+
+.react-calendar__tile {
+  padding: 5px;
+  text-align: center;
+}
+
+.react-calendar__tile--active {
+  background: yellow; /* Highlight the active date */
+}
+
+.react-calendar__tile--now {
+  background: yellow; /* Highlight today's date */
+}
+
+.react-calendar__tile--hasActive {
+  background: #e6f7ff; /* Highlight dates with active events */
+}
+
+.react-calendar__navigation {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  background: rgba(240, 240, 240, 0.8); /* Semi-transparent white background for navigation */
+  border-bottom: 1px solid #ccc;
+}
+
+.react-calendar__navigation__label {
+  font-size: 1.2em;
+}
+
+.react-calendar__navigation__arrow {
+  font-size: 1.5em;
+  cursor: pointer;
+}
+
+.react-calendar__tile--weekend {
+  color: red; /* Color weekend dates differently */
+}
+
+/* Optional: Hide the navigation arrows if you don't need them */
+.react-calendar--hideNavigationArrows .react-calendar__navigation__arrow {
+  display: none;
+}
+
+
+
+
+
+
+
+/* -------------------------- Calendar Code ----------------------------------------------------- */
+
+
+
+@media screen and (max-width: 1200px) {
+  .Table {
+    width: 170%;
+    margin-top: 2rem;
+  }
+}
+
+
+@media screen and (max-width: 768px) {
+  .Table{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 23rem;
+  }
+}
