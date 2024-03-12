@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/project-assesment/static/css/main.ff2572e6.css",
+    "main.js": "/project-assesment/static/js/main.731fa997.js",
+    "static/media/photo1.png": "/project-assesment/static/media/photo1.ef78774c4a696bb8ea60.png",
+    "static/media/img1.png": "/project-assesment/static/media/img1.a0fca9c51749c1ee3db5.png",
+    "static/media/img2.png": "/project-assesment/static/media/img2.f5f922c9b93eaf2c4065.png",
+    "static/media/img3.png": "/project-assesment/static/media/img3.6b1484548ee065fd59b5.png",
+    "static/media/img7.png": "/project-assesment/static/media/img7.334ae7e11e92268d4206.png",
+    "static/media/img6.png": "/project-assesment/static/media/img6.107f30c1f2f6da42354c.png",
+    "static/media/img4.png": "/project-assesment/static/media/img4.18edf2123ec3094d4d6f.png",
+    "static/media/img5.png": "/project-assesment/static/media/img5.696b3d98fdec9fe2ad9b.png",
+    "index.html": "/project-assesment/index.html",
+    "main.ff2572e6.css.map": "/project-assesment/static/css/main.ff2572e6.css.map",
+    "main.731fa997.js.map": "/project-assesment/static/js/main.731fa997.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff2572e6.css",
+    "static/js/main.731fa997.js"
+  ]
+}
