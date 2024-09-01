@@ -1,8 +1,6 @@
-# User Manual for the ERP System - Technical Assesment (using ReactJS)
+# User Manual for the ERP System (using ReactJS)
 
-This document serves as the user manual for the ERP System developed as the fulfillment of the Technical Assignment.
-
-**Note**: This project has implemented all the features mentioned in the document for the technical assignment, and all tasks and requirements with extra features have been successfully implemented and fulfilled and its completely interactive.
+This document serves as the user manual for the ERP System developed.
 
 **Note:** User manual must be read carefully, and the instructions mentioned must be followed strictly.
 <br/><br/>
@@ -10,12 +8,7 @@ This document serves as the user manual for the ERP System developed as the fulf
 ## Live Demo
 
 **You can access a live demo of the project** : [https://abhishek-project-assesment.vercel.app/](https://abhishek-project-assesment.vercel.app/) 
-##### Backup Link for Live Demo : 
-Link 2 : [https://abhishek-project-assesment-git-main-abhisheks-projects-e8bbf570.vercel.app/](https://abhishek-project-assesment-git-main-abhisheks-projects-e8bbf570.vercel.app/)
 
-Link 3 : [https://abhishek-project-assesment-gfy063oop.vercel.app/](https://abhishek-project-assesment-gfy063oop.vercel.app/)
-
-Link 4 : [https://kunvarabhishek.github.io/project-assesment/](https://kunvarabhishek.github.io/project-assesment/)
 <br/><br/>
 
 
@@ -92,9 +85,7 @@ After successfully executing the command, you can go back and check in your extr
 
 **You can access a live demo of the project** : [https://abhishek-project-assesment.vercel.app/](https://abhishek-project-assesment.vercel.app/) 
 
-##### Backup Link for Live Demo : 
-Link 2 : [https://abhishek-project-assesment-git-main-abhisheks-projects-e8bbf570.vercel.app/](https://abhishek-project-assesment-git-main-abhisheks-projects-e8bbf570.vercel.app/)
-<br/><br/>
+
 
 
 ## Dashboard Page
